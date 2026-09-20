@@ -1,0 +1,7 @@
+"Metric","Value"
+"Accuracy",0.9865
+"Precision",0.961538461538461
+"Recall",0.666666666666667
+"Specificity",0.998961038961039
+"F1",0.78740157480315
+"Balanced Accuracy",0.832813852813853

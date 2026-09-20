@@ -1,0 +1,5 @@
+"Model","AUC"
+"Logistic Regression",0.947560173160173
+"Decision Tree",0.897496103896104
+"Random Forest",0.974850216450216
+"SVM",0.950289177489178
