@@ -229,7 +229,7 @@ The project generates several visualizations:
 
 ### Feature Importance
 
-![Feature Importance](plots/feature_importance.png)
+(![Feature Importance](plots/feature_importance_updated.png))
 
 ### Failure Distribution
 
